@@ -1,0 +1,20 @@
+{
+  "total_labs": 11,
+  "repo_url": "https://github.com/phys119/branch_test",
+  "repo_name": "branch_test",
+  "hub_url": "https://phys119.phas.ubc.ca",
+  "current_branch": "current-labs",
+  "lab_names": {
+    "0": "Introduction to Experimentation",
+    "1": "Hooke's Law",
+    "2": "Pendulum",
+    "3": "Hair Diameter",
+    "4": "Photoelectric Effect",
+    "5": "Ideal Gas Law",
+    "6": "Light Intensity",
+    "7": "Radioactivity",
+    "8": "Electron Diffraction",
+    "9": "Spectroscopy",
+    "10": "Final Project"
+  }
+}
